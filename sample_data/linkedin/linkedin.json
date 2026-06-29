@@ -1,0 +1,19 @@
+{
+  "full_name": "Ali Asgar Jaipuri",
+  "headline": "AI Engineer | Backend Developer",
+  "years_of_experience": 2.0,
+  "education": {
+    "college": "BMS College of Engineering",
+    "degree": "B.E. Artificial Intelligence and Machine Learning",
+    "graduation_year": 2027
+  },
+  "location": "Bengaluru, India",
+  "linkedin_url": "https://linkedin.com/in/example",
+  "skills": [
+    "Python",
+    "Machine Learning",
+    "FastAPI",
+    "PostgreSQL",
+    "Docker"
+  ]
+}

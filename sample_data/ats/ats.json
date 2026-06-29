@@ -1,0 +1,15 @@
+{
+  "candidate_name": "Ali A. Jaipuri",
+  "primary_email": "ali@example.com",
+  "phone_number": "9876543210",
+  "company": "OpenAI",
+  "designation": "Machine Learning Intern",
+  "application_stage": "Technical Assignment",
+  "expected_graduation_year": 2027,
+  "skills": [
+    "Python",
+    "Machine Learning",
+    "FastAPI",
+    "Docker"
+  ]
+}

@@ -1,0 +1,29 @@
+Ali Asgar Jaipuri
+
+Email:
+ali@example.com
+
+Phone:
++91 9876543210
+
+Skills:
+Python
+Machine Learning
+FastAPI
+Docker
+PostgreSQL
+SQL
+React
+
+Experience:
+Samsung R&D Intern
+Worked on decentralized peer-to-peer call and audio relay systems.
+
+Education:
+BMS College of Engineering
+B.E. Artificial Intelligence and Machine Learning
+
+Projects:
+NeuroGuard AI
+LexGPT
+NovaQure
