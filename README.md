@@ -305,7 +305,7 @@ eightfold-candidate-transformer/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/eightfold-candidate-transformer.git
+git clone https://github.com/alijaipuri/eightfold-candidate-transformer.git
 cd eightfold-candidate-transformer
 ```
 
